@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JonTimus
 - 👀 I’m interested in philosophy, humor, solving meaningful problems, deep conversations, art, science and technology, minimalism,
 adventure, books and working with creative teams. 
-- 🌱 I’m currently pursuing Master's in Computer Science
+- 🌱 I’m currently pursuing Master's in Computer Science at the University of Texas at Arlington. Looking for exiciting SWE job opportunities.
 - 💞️ I’m looking to collaborate on meaningful and useful projects that bring ordinary people fulfillment and help in their journey. Highly motivated to be a part of creative and collaborative teams.
 - 📫 How to reach me: Email: timusjohn@gmail.com | LinkedIn: https://www.linkedin.com/in/jontimus/
 
