@@ -5,7 +5,7 @@ adventure, books and working with creative teams.
 - 💞️ I’m looking to collaborate on meaningful and useful projects that bring ordinary people fulfillment and help in their journey. Highly motivated to be a part of creative and collaborative teams.
 - 📫 How to reach me: Email: timusjohn@gmail.com | LinkedIn: https://www.linkedin.com/in/jontimus/
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=JonTimusPAT_1&theme=highcontrast&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=JonTimus&theme=highcontrast&show_icons=true&count_private=true)
 
 <!---
 JonTimus/JonTimus is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
