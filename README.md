@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @JonTimus
+- 👋 Hi, I’m Akhmadjon Muslimov
 - 👀 I’m interested in philosophy, humor, solving meaningful problems, deep conversations, art, science and technology, minimalism,
 adventure, books and working with creative teams. 
 - 🌱 I’m currently pursuing Master's in Computer Science at the University of Texas at Arlington. Looking for exiciting SWE job opportunities.
