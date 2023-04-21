@@ -7,7 +7,7 @@ Email: timusjohn@gmail.com | LinkedIn: https://www.linkedin.com/in/jontimus/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=JonTimus&theme=highcontrast&show_icons=true&count_private=true)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonTimus&hide_progress=true)](https://github.com/JonTimus/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JonTimus&hide_progress=false)](https://github.com/JonTimus/github-readme-stats)
 
 
 <!---
