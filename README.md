@@ -1,5 +1,5 @@
 Hi, I’m Jon 👋
-I’m a software engineer with a Master’s in Computer Science and over 5 years of experience building high-performance web applications. My expertise spans JavaScript, React, TypeScript, Node.js, Next.js, and beyond. I’ve tackled everything from designing scalable UIs to fine-tuning complex APIs for maximum efficiency.
+I’m a software engineer with a Master’s in Computer Science and over 5 years of experience building high-performance web applications. My expertise spans JavaScript, React, TypeScript, Node.js, Next.js, AI/NLP, ML and beyond. I’ve tackled everything from designing scalable UIs to fine-tuning complex APIs for maximum efficiency.
 
 What I’m Up To:
 - Tinkering with AI at xAI and trying not to let the robots take over.
